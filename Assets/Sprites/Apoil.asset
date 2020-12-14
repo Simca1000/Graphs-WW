@@ -10,10 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 871740360eae4cb4d853169814e16f75, type: 3}
-  m_Name: NewClothPack
+  m_Name: Apoil
   m_EditorClassIdentifier: 
-  head: {fileID: 0}
-  hair: {fileID: 0}
   leftArm: {fileID: 0}
   rightArm: {fileID: 0}
   chest: {fileID: 0}

@@ -6,12 +6,12 @@ public class PersoClothSwaper : MonoBehaviour
     public SCO_ClothPack ClothPack;
 
     [Header("Emplacements"), SerializeField]
-    private SpriteRenderer head;
+    private SpriteRenderer chest;
     
     //List à edit (ne pas oublie d'edit aussi le SCO)
 
     [SerializeField] 
-    private SpriteRenderer leftArm, rightArm, chest, legs /*,ajout*/;
+    private SpriteRenderer leftArm, rightArm, legs, leftFoot, rightFoot /*,ajout*/;
 
     void FixedUpdate()
     {
@@ -22,10 +22,11 @@ public class PersoClothSwaper : MonoBehaviour
     {
         //List à edit 
         // ajout.sprite = ClothPack.ajout
-        head.sprite = ClothPack.head;
         chest.sprite = ClothPack.chest;
         leftArm.sprite = ClothPack.leftArm;
         rightArm.sprite = ClothPack.rightArm;
         legs.sprite = ClothPack.legs;
+        leftFoot.sprite = ClothPack.leftFoot;
+        rightFoot.sprite = ClothPack.rightFoot;
     }
 }

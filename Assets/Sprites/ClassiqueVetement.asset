@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 871740360eae4cb4d853169814e16f75, type: 3}
   m_Name: ClassiqueVetement
   m_EditorClassIdentifier: 
-  head: {fileID: 1813005495940858902, guid: a5814ec189763064b96260b1d01acd8c, type: 3}
   leftArm: {fileID: 5948143975047566369, guid: a5814ec189763064b96260b1d01acd8c, type: 3}
   rightArm: {fileID: -1675426844759192334, guid: a5814ec189763064b96260b1d01acd8c,
     type: 3}
   chest: {fileID: -1985579576981348027, guid: a5814ec189763064b96260b1d01acd8c, type: 3}
   legs: {fileID: -1036230207717322135, guid: a5814ec189763064b96260b1d01acd8c, type: 3}
+  leftFoot: {fileID: -4780815319269594321, guid: a5814ec189763064b96260b1d01acd8c,
+    type: 3}
+  rightFoot: {fileID: -2034021081058491054, guid: a5814ec189763064b96260b1d01acd8c,
+    type: 3}

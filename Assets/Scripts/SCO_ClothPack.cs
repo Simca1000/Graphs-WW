@@ -6,5 +6,5 @@ public class SCO_ClothPack : ScriptableObject
 {
     //List à edit (ne pas oublie d'edit aussi le script de base)
     [Space(10)]
-    public Sprite head, leftArm, rightArm, chest, legs /*,ajout*/;
+    public Sprite leftArm, rightArm, chest, legs, leftFoot, rightFoot /*,ajout*/;
 }
