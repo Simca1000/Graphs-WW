@@ -1,40 +1,34 @@
 fileFormatVersion: 2
-guid: a38fcb955ea78494aa3cd920ef028b12
+guid: f313d8fb739ae42489daffbe33284ee6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5476405775038874191
-    second: Gabarit Middle Chara earless_0
+      213: -6621616468548806168
+    second: Hair_Low
   - first:
-      213: -2462344902815069676
-    second: Gabarit Middle Chara earless_1
+      213: -5752241998682794288
+    second: Hair_High
   - first:
-      213: 6179924274719463654
-    second: Gabarit Middle Chara earless_2
+      213: -8528919231205030921
+    second: Chin
   - first:
-      213: -3686549706538501246
-    second: Gabarit Middle Chara earless_3
+      213: 7401055123708133659
+    second: Left_Hand
   - first:
-      213: 8895638770543736287
-    second: Gabarit Middle Chara earless_4
+      213: 5427457334418914208
+    second: Body
   - first:
-      213: 1318966123435533350
-    second: Gabarit Middle Chara earless_5
+      213: -2504920120474966314
+    second: Right_Hand
   - first:
-      213: 358979503279323857
-    second: Gabarit Middle Chara earless_6
+      213: -2514195774984682974
+    second: Pants
   - first:
-      213: -5405498471075769210
-    second: Gabarit Middle Chara earless_7
+      213: -5958491210293434378
+    second: Left foot
   - first:
-      213: 7562231421202529333
-    second: Gabarit Middle Chara earless_8
-  - first:
-      213: -4014263979555334848
-    second: Gabarit Middle Chara earless_9
-  - first:
-      213: -5247511010948099457
-    second: Gabarit Middle Chara earless_10
+      213: -5745143637869217837
+    second: Right Foot
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -64,7 +58,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 2
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -73,7 +67,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -97,7 +91,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -109,7 +103,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -120,232 +114,190 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_0
+      name: Hair_Low
       rect:
         serializedVersion: 2
-        x: 152
-        y: 676
-        width: 532
-        height: 504
+        x: 111
+        y: 535
+        width: 162
+        height: 300
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bdf8ec76f5eff3b0800000000000000
-      internalID: -5476405775038874191
+      spriteID: 8e9954997ea4b14a0800000000000000
+      internalID: -6621616468548806168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_1
+      name: Hair_High
       rect:
         serializedVersion: 2
-        x: 19
-        y: 282
-        width: 128
-        height: 190
+        x: 286
+        y: 812
+        width: 560
+        height: 511
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41ac6316b5ef3ddd0800000000000000
-      internalID: -2462344902815069676
+      spriteID: 0d6dd6ef06eeb20b0800000000000000
+      internalID: -5752241998682794288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_2
+      name: Chin
       rect:
         serializedVersion: 2
-        x: 248
-        y: 275
-        width: 293
-        height: 204
+        x: 300
+        y: 530
+        width: 479
+        height: 176
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e8977d926083c550800000000000000
-      internalID: 6179924274719463654
+      spriteID: 7f3c60ab52133a980800000000000000
+      internalID: -8528919231205030921
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_3
-      rect:
-        serializedVersion: 2
-        x: 626
-        y: 292
-        width: 111
-        height: 170
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 28bb3f6f29eb6dcc0800000000000000
-      internalID: -3686549706538501246
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gabarit Middle Chara earless_4
+      name: Left_Hand
       rect:
         serializedVersion: 2
         x: 0
-        y: 171
-        width: 92
-        height: 92
+        y: 266
+        width: 135
+        height: 244
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd5b378a458a37b70800000000000000
-      internalID: 8895638770543736287
+      spriteID: b1145bb2c64d5b660800000000000000
+      internalID: 7401055123708133659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_5
+      name: Body
       rect:
         serializedVersion: 2
-        x: 106
-        y: 168
-        width: 49
-        height: 48
+        x: 402
+        y: 287
+        width: 297
+        height: 207
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 624262a73b8ed4210800000000000000
-      internalID: 1318966123435533350
+      spriteID: 0abb0a390b3325b40800000000000000
+      internalID: 5427457334418914208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_6
+      name: Right_Hand
       rect:
         serializedVersion: 2
-        x: 240
-        y: 76
-        width: 308
+        x: 953
+        y: 261
+        width: 117
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d66c5c0c6cbc3dd0800000000000000
+      internalID: -2504920120474966314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pants
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 72
+        width: 309
         height: 133
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1da3c9ec4f95bf400800000000000000
-      internalID: 358979503279323857
+      spriteID: 22200407348cb1dd0800000000000000
+      internalID: -2514195774984682974
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_7
+      name: Left foot
       rect:
         serializedVersion: 2
-        x: 610
-        y: 198
-        width: 49
-        height: 48
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6849c95b7cfcbf4b0800000000000000
-      internalID: -5405498471075769210
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gabarit Middle Chara earless_8
-      rect:
-        serializedVersion: 2
-        x: 673
-        y: 191
-        width: 91
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53cf212496172f860800000000000000
-      internalID: 7562231421202529333
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Gabarit Middle Chara earless_9
-      rect:
-        serializedVersion: 2
-        x: 232
+        x: 385
         y: 0
-        width: 97
+        width: 98
         height: 58
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 04555f7dd287a48c0800000000000000
-      internalID: -4014263979555334848
+      spriteID: 6f72c2d40df2f4da0800000000000000
+      internalID: -5958491210293434378
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Gabarit Middle Chara earless_10
+      name: Right Foot
       rect:
         serializedVersion: 2
-        x: 480
+        x: 637
         y: 0
         width: 76
-        height: 58
+        height: 57
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f72dc7db9881d27b0800000000000000
-      internalID: -5247511010948099457
+      spriteID: 3d7b539ec462540b0800000000000000
+      internalID: -5745143637869217837
       vertices: []
       indices: 
       edges: []
