@@ -23,7 +23,7 @@ MonoBehaviour:
     type: 3}
   rightEyebrow: {fileID: -8952818601818801747, guid: cbeb54101e8163c45b0078578602ac08,
     type: 3}
-  mouth: {fileID: 2241388188214014488, guid: cbeb54101e8163c45b0078578602ac08, type: 3}
+  mouth: {fileID: 21300000, guid: 42898f2df511f1441aab0dd5197e609a, type: 3}
   chin: {fileID: -8145519280015955282, guid: cbeb54101e8163c45b0078578602ac08, type: 3}
   ear: {fileID: 7839610549218760878, guid: cbeb54101e8163c45b0078578602ac08, type: 3}
   neck: {fileID: 0}
